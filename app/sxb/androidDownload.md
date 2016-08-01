@@ -3,7 +3,7 @@
 ***SXB最新测试版下载地址：***
 [https://www.pgyer.com/7QIl](https://www.pgyer.com/7QIl)
 
-![](2016-03-23-1133044092.png)
+![](1470041755.png)
 
 ***
 ***
@@ -18,7 +18,7 @@
 ***
 
 ***SXB android 线上版本，用户正在使用的下载地址：***
-[http://erp.sxbcar.com/webapp/admin/uploadAppPage](http://erp.sxbcar.com/webapp/admin/uploadAppPage)
+[http://h5.sxbcar.com/d](http://h5.sxbcar.com/d)
 
 
-![](2016-03-23-1150588641.png)
+![](1470041200.png)
