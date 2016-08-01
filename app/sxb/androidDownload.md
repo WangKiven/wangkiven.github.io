@@ -17,7 +17,7 @@
 ***
 ***
 
-***SXB正式版下载地址：***
+***SXB android 线上版本，用户正在使用的下载地址：***
 [http://erp.sxbcar.com/webapp/admin/uploadAppPage](http://erp.sxbcar.com/webapp/admin/uploadAppPage)
 
 
