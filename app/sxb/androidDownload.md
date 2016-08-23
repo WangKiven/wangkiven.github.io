@@ -8,7 +8,7 @@
 ***
 ***
 
-***SXB正式版上线前下载地址（正式非发布）：***
+***SXB正式版上线前下载地址（正式非发布，公测版）：***
 [http://fir.im/checheche](http://fir.im/checheche)
 
 
